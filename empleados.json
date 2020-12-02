@@ -1,0 +1,14 @@
+[
+    {
+      "nombre": "Jon Castillo ",
+      "nivel": "Junior",
+      "edad": 25,
+      "lenguajes": [ ".NET", "PHP" ]
+    },
+    {
+      "nombre": "Carol Ugalde",
+      "nivel": "Mid",
+      "edad": 29,
+      "lenguajes": [ "React", "Vue.js" ]
+    }
+ ]
